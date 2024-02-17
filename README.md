@@ -1,1 +1,8 @@
-<img src="https://media.discordapp.net/attachments/1206297711146565726/1208364901697847316/f9a6baed1653ea7c5e493dc60319b82f.jpg?ex=65e30482&is=65d08f82&hm=0670a3c42d50811956b3e60723a8a7277eeda19ab12a46c34c89b47fef959e0b&=&format=webp&width=662&height=219" alt="Image">
+<a href="https://www.youtube.com/watch?v=zL19uMsnpSU&t" target="_blank"> <img src="https://i.pinimg.com/originals/4b/dc/f4/4bdcf4287dafcf99a2bfd849d869567b.jpg" alt="Dexv's Github"/></a>
+
+![GitHub](https://komarev.com/ghpvc/?username=DXVVAY&style=flat)
+[![Discord](https://dcbadge.vercel.app/api/shield/1185267230380933170?style=flat&logoColor=presence&theme=clean)](https://discord.com/users/1185267230380933170)
+<br>
+```sh-session
+currently working on a socket-server system
+```
