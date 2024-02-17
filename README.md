@@ -4,7 +4,7 @@
 <br>
 
 ```python
-pip install wiresploit
+python wiresploit.py
 ```
 ```python
 def change_status(project):
