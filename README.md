@@ -4,11 +4,11 @@
 <br>
 
 ```python
-python wiresploit.py
+python fransiz.py
 ```
 ```python
 def change_status(project):
-  print(f"@wiresploit is working on {project}")
+  print(f"@fransizreal is working on {project}")
 
 change_status("socket-server system")
 ```
