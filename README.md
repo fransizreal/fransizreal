@@ -10,5 +10,5 @@ python fransiz.py
 def change_status(project):
   print(f"@fransizreal is working on {project}")
 
-change_status("socket-server system")
+change_status("a server system framework in python")
 ```
